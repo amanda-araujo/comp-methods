@@ -1,6 +1,7 @@
 # 2022 Scientific Computing Intro
 
 Welcome! This is a demo repository with the example of a data analysis' project using R.
+This was developed during Computational Methods class \o/  
 
 ## Project structure
 
