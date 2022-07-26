@@ -9,3 +9,7 @@
 
 # all zip files
 *.zip
+
+# the path to raster and shapefile files (ignoring geodata)
+data/raster
+data/shapefiles
